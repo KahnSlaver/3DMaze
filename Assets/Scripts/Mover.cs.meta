@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5b804df3752c49d4d8f22dc08a6e0ed9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WalkingAudio: {fileID: 8300000, guid: 913aa2250139b2e4bbd2366006a94013, type: 3}
+  - JumpAudio: {fileID: 8300000, guid: d6568e98afa910d4080037577297666f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

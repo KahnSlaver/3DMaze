@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6582ff289088c88408b61467cf37f692
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DeathParticles: {instanceID: 0}
+  - SuccessParticles: {instanceID: 0}
+  - DeathAudio: {fileID: 8300000, guid: fe992aacc9043784c9d0d7bea2041536, type: 3}
+  - SuccessAudio: {fileID: 8300000, guid: f0ea80ed3937c1d4d8919b5634ce2c15, type: 3}
+  - Player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
